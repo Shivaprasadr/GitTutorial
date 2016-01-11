@@ -9,4 +9,5 @@ git add README
 git commit -m 'first commit'
 git remote add origin git https://github.com/Shivaprasadr/GitTutorial.git
 git push -u origin master
-trying to edit first time
+trying to edit 1st first time
+trying to edit 2nd time
