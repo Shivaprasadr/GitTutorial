@@ -2,3 +2,16 @@
 My first repository on GitHub.
 "first time editing"
 "trying to creat a branch and pull"
+git config --global user.name "shivaprasad"
+git config --global user.email shivaprasadsmiles@gmail.com
+
+mkdir gitTutorila
+cd gitTurorial
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git https://github.com/Shivaprasadr/GitTutorial.git
+git push -u origin master
+trying to edit 1st first time
+trying to edit 2nd time
